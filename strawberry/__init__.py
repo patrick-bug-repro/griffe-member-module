@@ -1,0 +1,2 @@
+def type():
+    return "fruit"
